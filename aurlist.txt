@@ -1,0 +1,17 @@
+albert-lite
+angrysearch
+breeze-snow-cursor-theme
+caffeine-ng
+chrome-gnome-shell-git
+command-not-found
+gotop-bin
+gtk-arc-flatabulous-theme-git
+kubectl-bin
+openvpn-nordvpn
+pcmciautils
+slack-desktop
+ttf-symbola
+tusk
+waterfox-bin
+zd1211-firmware
+zoom
